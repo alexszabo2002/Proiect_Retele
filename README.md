@@ -28,11 +28,14 @@
     To retrieve a list of objects with specific key values:
     ```sh
     python client.py get_keys [key1] [key2] ...
+    ```
 
     To update an object by key:
     ```sh
     python client.py update [key] [new_value]
+    ```
 
     To delete an object by key:
     ```sh
     python client.py delete [key]
+    ```
